@@ -18,7 +18,7 @@ This project explores how **Trade Republic** could evolve from a platform focuse
 Rather than simply proposing a feature, this project demonstrates an end-to-end Product Management process, from defining the problem to designing an MVP, prioritising features, creating a product roadmap, and validating the user experience with an interactive prototype.
 
 
-> 📄 **Quick Links:** [PRD](PRD.md) • [Story Map](UserStoryMap.pdf) • [Figma Presentation](https://sl1nk.com/f9hmlry) • [Interactive Prototype](https://l1nq.com/iqzb5nl)
+> 📄 **Quick Links:** [PRD](PRD.md) • [Story Map](UserStoryMap.pdf) • [Presentation](https://docs.google.com/presentation/d/1R2yMoGaTYdDHc9GiJiNjTGLLUUP8COSk/edit?usp=sharing&ouid=112156500298191034890&rtpof=true&sd=true) • [Interactive Prototype](https://l1nq.com/iqzb5nl)
 
 ## 📑 Table of Contents
 
@@ -151,7 +151,7 @@ Examples:
 
 ## 🎨 Presentation & Interactive Prototype
 
-The complete case study is presented through an interactive Figma presentation, which explains the entire Product Management process from problem definition to MVP delivery.
+The complete case study is presented through a presentation, which explains the entire Product Management process from problem definition to MVP delivery.
 
 The presentation includes:
 
@@ -166,7 +166,7 @@ The presentation includes:
 
 ### 🔗 Figma Presentation
 
-https://sl1nk.com/f9hmlry
+https://acesse.one/2nabrdm
 
 ### 🔗 Interactive Prototype
 
