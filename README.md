@@ -18,7 +18,7 @@ This project explores how **Trade Republic** could evolve from a platform focuse
 Rather than simply proposing a feature, this project demonstrates an end-to-end Product Management process, from defining the problem to designing an MVP, prioritising features, creating a product roadmap, and validating the user experience with an interactive prototype.
 
 
-> 📄 **Quick Links:** [PRD](PRD.md) • [Story Map](UserStoryMap.pdf) • [Presentation](https://docs.google.com/presentation/d/1R2yMoGaTYdDHc9GiJiNjTGLLUUP8COSk/edit?usp=sharing&ouid=112156500298191034890&rtpof=true&sd=true) • [Interactive Prototype](https://l1nq.com/iqzb5nl)
+> 📄 **Quick Links:** [PRD](PRD.md) • [Story Map](UserStoryMap.pdf) • [Presentation](https://www.figma.com/deck/CbmhLF89mXpIX5BGQeIlEv) • [Interactive Prototype](https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prototype?node-id=1-4&p=f&viewport=217%2C494%2C0.33&t=Adnxt74mt0lNLW8C-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4&page-id=0%3A1)
 
 ## 📑 Table of Contents
 
@@ -166,11 +166,11 @@ The presentation includes:
 
 ### 🔗 Figma Presentation
 
-https://acesse.one/2nabrdm
+https://www.figma.com/deck/CbmhLF89mXpIX5BGQeIlEv
 
 ### 🔗 Interactive Prototype
 
-https://l1nq.com/iqzb5nl
+https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prototype?node-id=1-4&p=f&viewport=217%2C494%2C0.33&t=Adnxt74mt0lNLW8C-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4&page-id=0%3A1
 
 ---
 
